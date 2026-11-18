@@ -1,0 +1,36 @@
+DESKRIPSI KASUS - DATA PREPROCESSING
+Pembuat kasus : Nita (Sistem Informasi, UISI)
+File dataset  : dataset_Nita.csv
+
+LATAR BELAKANG
+Sebuah toko online (e-commerce) fashion dan kebutuhan harian yang berbasis di Jawa Timur
+ingin mengetahui pelanggan mana yang berpotensi berhenti berbelanja (churn). Tim data
+mengumpulkan data profil dan perilaku belanja pelanggan dari berbagai sumber (aplikasi,
+formulir manual, dan pencatatan kasir), sehingga kualitas datanya belum rapi. Sebelum
+dipakai untuk analisis atau pemodelan churn, data harus melalui tahap data preprocessing.
+
+TUJUAN
+Menyiapkan data yang bersih, konsisten, dan siap dianalisis/dimodelkan untuk memprediksi
+Status_Churn.
+
+DESKRIPSI VARIABEL
+1.  ID_Pelanggan        (kategorik/identitas) kode unik pelanggan
+2.  Usia                (numerik) usia pelanggan, tahun
+3.  Jenis_Kelamin       (kategorik) jenis kelamin pelanggan
+4.  Kota                (kategorik) kota domisili pelanggan
+5.  Pendapatan_Bulanan  (numerik) perkiraan pendapatan per bulan, rupiah
+6.  Frekuensi_Belanja   (numerik) jumlah transaksi dalam 12 bulan terakhir
+7.  Total_Belanja       (numerik) total nilai belanja 12 bulan terakhir, rupiah
+8.  Metode_Pembayaran   (kategorik) metode pembayaran yang paling sering dipakai
+9.  Kategori_Favorit    (kategorik) kategori produk yang paling sering dibeli
+10. Rating_Kepuasan     (numerik) rating kepuasan pelanggan, skala valid 1 - 5
+11. Tanggal_Daftar      (tanggal) tanggal pelanggan mendaftar
+12. Status_Churn        (kategorik, target) Churn / Tidak Churn
+
+UKURAN DATA
+Sekitar 170 baris dan 12 variabel.
+
+INSTRUKSI UNTUK PENGERJA
+Lakukan data preprocessing secara lengkap (identifikasi masalah, penanganan, dan
+transformasi), jelaskan tiap tahap dengan format input - proses - output. Untuk missing
+value, gunakan minimal statistik deskriptif sebagai dasar pemilihan metode penanganan.

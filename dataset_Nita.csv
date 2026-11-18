@@ -1,0 +1,172 @@
+ID_Pelanggan,Usia,Jenis_Kelamin,Kota,Pendapatan_Bulanan,Frekuensi_Belanja,Total_Belanja,Metode_Pembayaran,Kategori_Favorit,Rating_Kepuasan,Tanggal_Daftar,Status_Churn
+CUST0014,,Perempuan,Mojokerto,5157000.0,8.0,1754000.0,Kartu Kredit,Elektronik,3.4,2024-08-21,Tidak Churn
+CUST0015,48.0,Perempuan,Surabaya,,9.0,1721000.0,cod,Kebutuhan Rumah,4.6,2025-04-06,Tidak Churn
+CUST0070,37.0,Laki-laki,Surabaya,1894000.0,7.0,1091000.0,E-Wallet,Kecantikan,3.5,2023-11-20,Tidak Churn
+CUST0143,29.0,Laki-laki,Sidoarjo,5264000.0,10.0,2259000.0,COD,Fashion,2.5,2023-08-24,Churn
+CUST0045,,Laki-laki,Surabaya,4472000.0,7.0,975000.0,Kartu Kredit,Kebutuhan Rumah,3.1,2025-05-20,Tidak Churn
+CUST0082,36.0,Perempuan,Malang,2957000.0,6.0,1084000.0,COD,Kebutuhan Rumah,,2023-04-22,Churn
+CUST0018,23.0,Laki-laki,Mojokerto,6815000.0,8.0,913000.0,Transfer Bank,Elektronik,2.3,2023-08-25,Tidak Churn
+CUST0071,51.0,Laki-laki,surabaya,120000000,8.0,850000.0,,Kecantikan,4.2,2024-05-20,Tidak Churn
+CUST0040,44.0,Perempuan,Surabaya,,6.0,942000.0,E-Wallet,Kecantikan,3.0,25/06/2024,Tidak Churn
+CUST0155,,Laki-laki,Surabaya,Rp 2.639.000,8.0,1337000.0,transfer,Fashion,2.7,2023/06/21,Tidak Churn
+CUST0039,29.0,,Surabaya,4436000.0,7.0,1.850.000,Transfer Bank,Fashion,2.4,2023-07-10,Tidak Churn
+CUST0079,41.0,Laki-laki,Surabaya ,6291000.0,8.0,,kartu kredit,Kecantikan,3.7,2023-12-23,Tidak Churn
+CUST0134,41.0,Laki-laki,SURABAYA,6092000.0,13.0,3267000.0,COD,Kebutuhan Rumah,0.0,2025-03-21,Churn
+CUST0068,33.0,Perempuan,Sidoarjo,9690000.0,8.0,1469000.0,E-Wallet,Fashion,2.4,2024-11-11,Tidak Churn
+CUST0055,38.0,Perempuan,Gresik,7300000.0,6.0,847000.0,Transfer Bank,Fashion,3.1,2023-09-23,Tidak Churn
+CUST0056,19.0,Laki-laki,Gresik,3595000.0,9.0,1886000.0,E-Wallet,Olahraga,3.8,2024-11-17,Tidak Churn
+CUST0061,56.0,Laki-laki,Surabaya,5864000.0,11.0,2318000.0,E-Wallet,Kebutuhan Rumah,2.2,2023-10-29,Churn
+CUST0090,52.0,Laki-laki,Sidoarjo,5913000.0,12.0,2262000.0,E-Wallet,Elektronik,4.3,2024-11-08,Tidak Churn
+CUST0028,-5,Laki-laki,Surabaya,3310000.0,6.0,1406000.0,Kartu Kredit,Kecantikan,2.8,2023-10-22,Tidak Churn
+CUST0029,40.0,Laki-laki,Gresik,4292000.0,2.0,300000.0,Transfer Bank,Kebutuhan Rumah,4.1,2024-09-18,Tidak Churn
+CUST0122,46.0,Laki-laki,Surabaya ,6207000.0,7.0,1174000.0,Transfer Bank,Elektronik,4.8,2023-03-02,Tidak Churn
+CUST0052,26.0,,Sidoarjo,5234000.0,7.0,1.224.000,ewallet,Olahraga,3.0,2023-01-08,Churn
+CUST0007,21.0,Laki-laki,Malang,6990000.0,6.0,867000.0,,Olahraga,3.0,2025-04-30,Tidak Churn
+CUST0081,57.0,Laki-laki,Malang,,8.0,1652000.0,ewallet,Olahraga,4.6,29-Mar-2024,Tidak Churn
+CUST0098,46.0,Laki-laki,Surabya,5021000.0,7.0,1228000.0,E-Wallet,Olahraga,2.1,2024-05-15,Tidak Churn
+CUST0031,36.0,Perempuan,Mojokerto,7580000.0,7.0,1433000.0,,Elektronik,2.1,2024-11-20,Churn
+CUST0038,52.0,Laki-laki,Malang,1786000.0,6.0,1352000.0,COD,Elektronik,4.6,2025-02-23,Churn
+CUST0027,34.0,Laki-laki,Surabaya,5559000.0,5.0,1122000.0,E-Wallet,Elektronik,4.7,21/01/2024,Tidak Churn
+CUST0069,21.0,Perempuan,Gresik,5131000.0,8.0,1759000.0,COD,Kecantikan,4.3,2025-01-29,Tidak Churn
+CUST0032,27.0,Perempuan,Surabaya,6596000.0,3.0,261000.0,Transfer Bank,Olahraga,4.0,2023-08-14,Tidak Churn
+CUST0030,36.0,Laki-laki,Surabaya,6062000.0,9.0,1392000.0,E wallet,Olahraga,2.2,2023-10-02,Tidak Churn
+CUST0149,52.0,Laki-laki,Surabaya,7437000.0,12.0,1745000.0,COD,,4.6,2025-03-02,Tidak Churn
+CUST0136,30.0,Perempuan,Mojokerto,7877000.0,9.0,972000.0,Transfer Bank,Fashion,2.4,2024-10-15,Churn
+CUST0152,29.0,Perempuan,Sidoarjo,5453000.0,7.0,1437000.0,Transfer Bank,Fashion,2.1,2023-10-18,Tidak Churn
+CUST0004,185,Laki-laki,Surabaya,6290000.0,6.0,1249000.0,E-Wallet,Elektronik,4.8,2023-05-16,Tidak Churn
+CUST0010,21.0,Pria,Mojokerto,4245000.0,14.0,2417000.0,COD,Elektronik,3.3,05/03/2024,Churn
+CUST0082,36.0,Perempuan,Malang,2957000.0,6.0,1084000.0,COD,Kebutuhan Rumah,,2023-04-22,Churn
+CUST0003,45.0,Laki-laki,Surabaya,7619000.0,5.0,508000.0,E-Wallet,Kecantikan,2.4,2023-12-27,Churn
+CUST0026,,Laki-laki,Gresik,3675000.0,4.0,489000.0,Transfer Bank,Elektronik,2.6,2024-02-21,Tidak Churn
+CUST0022,33.0,Laki-laki,Malang,4567000.0,7.0,1110000.0,Transfer Bank,Fashion,2.9,2023-11-26,Churn
+CUST0106,51.0,Perempuan,Surabaya,6849000.0,6.0,897000.0,Transfer Bank,Kebutuhan Rumah,3.5,2024-09-05,Churn
+CUST0054,37.0,Laki-laki,Malang,6190000.0,10.0,2028000.0,Transfer Bank,Elektronik,4.3,2023-02-12,Tidak Churn
+CUST0084,52.0,Perempuan,Sidoarjo,5598000.0,6.0,976000.0,COD,Fashion,2.6,2024-05-14,Tidak Churn
+CUST0111,29.0,Laki-laki,Surabaya,5376000.0,9.0,1423000.0,Transfer Bank,Fashion,3.8,2023-06-27,Tidak Churn
+CUST0009,,Laki-laki,Surabaya,5620000.0,9.0,1461000.0,COD,Elektronik,4.2,2023-09-19,Tidak Churn
+CUST0107,50.0,Pria,Surabaya,4987000.0,7.0,1565000.0,E-Wallet,Kebutuhan Rumah,3.3,2025-03-28,Churn
+CUST0131,41.0,Perempuan,Malang,4322000.0,14.0,2831000.0,COD,Fashion,3.7,2025-01-24,Tidak Churn
+CUST0021,39.0,Perempuan,Malang,,240,426000.0,COD,Elektronik,4.8,2023-02-25,Tidak Churn
+CUST0074,23.0,Perempuan,Sidoarjo ,,3.0,382000.0,E-Wallet,Kecantikan,3.8,2024-06-19,Tidak Churn
+CUST0147,19.0,Laki-laki,Surabaya,5625000.0,1.0,173000.0,E-Wallet,Elektronik,4.2,2025-03-13,Churn
+CUST0044,32.0,,Surabaya,7024000.0,13.0,2874000.0,E-Wallet,Olahraga,2.2,2024-09-16,Tidak Churn
+CUST0124,37.0,Laki-laki,surabaya,6354000.0,10.0,2483000.0,Transfer Bank,Olahraga,2.2,2025-04-18,Churn
+CUST0112,50.0,Laki-laki,SURABAYA,7936000.0,8.0,1834000.0,E-Wallet,Fashion,4.7,2024-04-28,Churn
+CUST0091,36.0,,Gresik,6454000.0,6.0,1263000.0,Transfer Bank,Olahraga,2.6,2024-02-26,Churn
+CUST0024,56 tahun,Perempuan,Surabaya,6648000.0,14.0,3402000.0,E-Wallet,Fashion,3.4,14-Apr-2024,Churn
+CUST0085,44.0,perempuan,Gresik,4651000.0,6.0,1159000.0,E-Wallet,Kecantikan,3.0,2024-07-04,Tidak Churn
+CUST0102,250,Laki-laki,Malang,,8.0,1439000.0,Transfer Bank,Elektronik,4.2,24/10/2023,Churn
+CUST0095,55.0,Perempuan,Surabaya,6977000.0,11.0,2076000.0,E-Wallet,Fashion,3.8,2023-07-03,Tidak Churn
+CUST0036,20.0,Laki-laki,Surabaya,,3.0,85000000,Transfer Bank,Kebutuhan Rumah,,2023-05-15,Tidak Churn
+CUST0144,35.0,Perempuan,Sidoarjo,6128000.0,6.0,1210000.0,Transfer Bank,Olahraga,2.2,2024-11-12,Churn
+CUST0048,,Perempuan,Gresik,Rp 5.919.000,5.0,708000.0,COD,Kebutuhan Rumah,2.6,2023-08-02,Tidak Churn
+CUST0087,22.0,Perempuan,Gresik,6764000.0,8.0,1150000.0,Kartu Kredit,Kebutuhan Rumah,2.6,2023-07-19,Tidak Churn
+CUST0046,58.0,Laki-laki,,6965000.0,10.0,1841000.0,E-Wallet,Olahraga,7.5,2025-02-01,Tidak Churn
+CUST0001,21.0,Perempuan,Surabaya,6549000.0,11.0,2474000.0,cod,Olahraga,2.8,2025-03-11,Churn
+CUST0139,32.0,Laki-laki,Malang,7421000.0,4.0,709000.0,Transfer Bank,Elektronik,4.6,2023-02-20,Tidak Churn
+CUST0008,47.0,Laki-laki,Malang,4966000.0,5.0,668000.0,Transfer Bank,Fashion,3.8,2023-02-16,Churn
+CUST0132,41.0,Laki-laki,Surabaya,6270000.0,8.0,892000.0,E-Wallet,Fashion,3.5,2023-03-29,Tidak Churn
+CUST0135,51.0,Perempuan,Malang,6151000.0,7.0,1200000.0,,Kebutuhan Rumah,4.5,2025-04-15,Tidak Churn
+CUST0089,50.0,Perempuan,Surabya,6868000.0,310,592000.0,E-Wallet,Olahraga,4.7,2024-09-14,Churn
+CUST0158,41.0,Perempuan,Gresik,4674000.0,10.0,,,Fashion,,2024-06-12,Churn
+CUST0096,30.0,Laki-laki,Gresik,,11.0,1964000.0,COD,Elektronik,2.9,2023-08-11,Tidak Churn
+CUST0104,18.0,Perempuan,Surabaya,1500000.0,15.0,2279000.0,Transfer Bank,Kebutuhan Rumah,4.3,2025-04-18,Tidak Churn
+CUST0011,40.0,Laki-laki,Surabaya,7281000.0,6.0,925000.0,E-Wallet,Elektronik,2.5,2023-03-30,Tidak Churn
+CUST0154,30.0,Laki-laki,Surabaya,Rp 4.000.000,3.0,589000.0,E-Wallet,,4.6,2024-09-19,Tidak Churn
+CUST0157,23.0,Perempuan,Surabaya,3489000.0,6.0,1069000.0,transfer,Fashion,3.3,2023-02-23,Churn
+CUST0146,53.0,Laki-laki,Sidoarjo,9239000.0,8.0,1487000.0,Kartu Kredit,Fashion,2.9,2025-01-15,Tidak Churn
+CUST0086,47 tahun,Laki-laki,malang,6327000.0,7.0,1424000.0,kartu kredit,Kebutuhan Rumah,4.1,2024-06-20,Tidak Churn
+CUST0156,45.0,Perempuan,Surabaya,1769000.0,10.0,2115000.0,E-Wallet,,3.6,2025-05-11,Churn
+CUST0020,36.0,Perempuan,gresik,5379000.0,11.0,1824000.0,Kartu Kredit,Elektronik,4.8,2024-01-12,Tidak Churn
+CUST0145,59.0,Perempuan,,9012000.0,12.0,2277000.0,COD,Olahraga,4.2,2023/02/23,Tidak Churn
+CUST0012,58.0,laki-laki,Sidoarjo,3379000.0,5.0,1018000.0,E-Wallet,Fashion,,2025-03-08,Tidak Churn
+CUST0080,46.0,Perempuan,Surabaya,6444000.0,12.0,2795000.0,Transfer Bank,Elektronik,2.6,2023-06-20,Churn
+CUST0077,31.0,Perempuan,Sidoarjo,,10.0,1519000.0,Transfer Bank,Elektronik,4.6,2025-05-24,Tidak Churn
+CUST0058,24.0,L,Surabaya,8167000.0,8.0,2273000.0,E-Wallet,Fashion,3.6,2025-06-07,Tidak Churn
+CUST0101,52.0,,Surabaya,1912000.0,7.0,1646000.0,Transfer Bank,Kecantikan,2.0,2025-02-24,Churn
+CUST0094,34.0,Pria,Surabaya,5854000.0,5.0,724000.0,Transfer Bank,Olahraga,4.1,26/12/2024,Tidak Churn
+CUST0034,41.0,Laki-laki,Malang,6048000.0,6.0,1013000.0,E-Wallet,Kebutuhan Rumah,4.0,2023-11-25,Tidak Churn
+CUST0088,31.0,Laki-laki,Sidoarjo,5749000.0,12.0,2178000.0,transfer,Elektronik,2.3,2024-12-14,Tidak Churn
+CUST0153,56.0,Laki-laki,Surabaya,6065000.0,4.0,797000.0,E-Wallet,Elektronik,2.2,2025-04-09,Tidak Churn
+CUST0065,35.0,perempuan,Surabaya,7042000.0,12.0,2420000.0,Transfer Bank,Elektronik,3.4,2025-02-03,Tidak Churn
+CUST0037,54.0,Laki-laki,sidoarjo,8409000.0,7.0,1288000.0,E-Wallet,Olahraga,4.2,2024-12-26,Tidak Churn
+CUST0083,24 tahun,Laki-laki,Surabaya,,8.0,1292000.0,Transfer Bank,Olahraga,3.3,2023-12-18,Tidak Churn
+CUST0033,21.0,Perempuan,SURABAYA,1500000.0,4.0,422000.0,,Fashion,3.0,2025-02-17,Churn
+CUST0049,46.0,L,Surabaya,5922000.0,13.0,1829000.0,E wallet,Fashion,2.8,2024-01-29,Tidak Churn
+CUST0123,45.0,Perempuan,Surabaya,,8.0,1248000.0,E-Wallet,Kecantikan,2.1,2025-02-04,Tidak Churn
+CUST0114,37.0,Perempuan,Sidoarjo,3993000.0,8.0,1520000.0,E-Wallet,Elektronik,2.2,2024-03-14,Tidak Churn
+CUST0076,37.0,Perempuan,Malang,3247000.0,6.0,795000.0,E-Wallet,Olahraga,4.5,2025/06/11,Churn
+CUST0015,48.0,Perempuan,Surabaya,,9.0,1721000.0,cod,Kebutuhan Rumah,4.6,2025-04-06,Tidak Churn
+CUST0148,27.0,Perempuan,Gresik,5788000.0,6.0,1331000.0,COD,Kebutuhan Rumah,2.2,2024-10-08,Tidak Churn
+CUST0108,45.0,Laki-laki,,5856000.0,8.0,2147000.0,Kartu Kredit,Elektronik,3.0,2025/05/27,Tidak Churn
+CUST0017,39.0,Perempuan,,,4.0,581000.0,Transfer Bank,Olahraga,4.8,2024-11-17,Tidak Churn
+CUST0137,43 tahun,Perempuan,Mojokerto,4883000.0,8.0,2046000.0,Kartu Kredit,Elektronik,3.3,2023-04-06,Tidak Churn
+CUST0097,28.0,Perempuan,Malang,6438000.0,6.0,1056000.0,E-Wallet,Olahraga,2.9,2024-04-19,Tidak Churn
+CUST0082,36.0,Perempuan,Malang,2957000.0,6.0,1084000.0,COD,Kebutuhan Rumah,,2023-04-22,Churn
+CUST0049,46.0,L,Surabaya,5922000.0,13.0,1829000.0,E wallet,Fashion,2.8,2024-01-29,Tidak Churn
+CUST0128,,Perempuan,Surabaya,4411000.0,8.0,1252000.0,Transfer Bank,Olahraga,,2023-06-28,Tidak Churn
+CUST0119,28.0,Laki-laki,,6946000.0,14.0,3372000.0,Kartu Kredit,Kebutuhan Rumah,2.5,2025-05-29,Tidak Churn
+CUST0043,47.0,L,Sidoarjo,6163000.0,9.0,1072000.0,COD,Kecantikan,2.9,2024-02-11,Tidak Churn
+CUST0042,49.0,Perempuan,Mojokerto,8157000.0,4.0,1012000.0,E-Wallet,Kecantikan,3.6,2023-05-01,Tidak Churn
+CUST0045,,Laki-laki,Surabaya,4472000.0,7.0,975000.0,Kartu Kredit,Kebutuhan Rumah,3.1,2025-05-20,Tidak Churn
+CUST0062,49.0,Laki-laki,Sidoharjo,7020000.0,11.0,2340000.0,E-Wallet,Kecantikan,3.3,2024-11-04,Tidak Churn
+CUST0099,44.0,Laki-laki,Surabaya,5288000.0,6.0,1106000.0,Kartu Kredit,Olahraga,4.2,2024-11-02,Tidak Churn
+CUST0051,49.0,Pria,Gresik,3946000.0,10.0,2198000.0,Transfer Bank,Kecantikan,3.2,2024-05-28,Tidak Churn
+CUST0030,36.0,Laki-laki,Surabaya,6062000.0,9.0,1392000.0,E wallet,Olahraga,2.2,2023-10-02,Tidak Churn
+CUST0067,56.0,Perempuan,Surabya,6497000.0,14.0,2290000.0,E-Wallet,Fashion,3.7,2023-11-05,Tidak Churn
+CUST0103,,Laki-laki,Surabaya,Rp 2.832.000,6.0,1276000.0,Kartu Kredit,Kecantikan,4.8,2024-04-25,Tidak Churn
+CUST0047,36.0,Perempuan,Surabaya,7423000.0,8.0,1362000.0,Transfer Bank,Fashion,3.2,2023-03-30,Tidak Churn
+CUST0117,19.0,,Surabaya,3901000.0,9.0,,E-Wallet,Kebutuhan Rumah,,2023-12-17,Tidak Churn
+CUST0113,41.0,laki-laki,Surabaya,5666000.0,16.0,3234000.0,COD,Kecantikan,5.0,06/04/2025,Tidak Churn
+CUST0016,51.0,Laki-laki,Surabaya,,8.0,1217000.0,E-Wallet,Elektronik,3.4,2024-09-08,Churn
+CUST0115,39.0,Laki-laki,Gresik,4430000.0,9.0,1983000.0,Transfer Bank,Kecantikan,3.2,2023-11-10,Tidak Churn
+CUST0150,20.0,Laki-laki,Surabaya,3978000.0,12.0,1381000.0,Kartu Kredit,Kecantikan,4.5,2024-06-11,Tidak Churn
+CUST0072,25.0,Perempuan,Sidoarjo,4676000.0,11.0,1137000.0,E-Wallet,Kecantikan,,2023-01-10,Tidak Churn
+CUST0078,27.0,Laki-laki,Malang,4071000.0,5.0,745000.0,COD,Fashion,2.1,2023-08-20,Churn
+CUST0116,41.0,Laki-laki,Surabaya,2835000.0,6.0,1196000.0,COD,Kebutuhan Rumah,2.5,2023-04-07,Churn
+CUST0109,37.0,Perempuan,Surabaya,7461000.0,10.0,1751000.0,,Elektronik,3.6,2024-03-25,Churn
+CUST0160,50.0,Perempuan,Mojokerto,8987000.0,8.0,2087000.0,Transfer Bank,Kebutuhan Rumah,3.5,2024-08-20,Tidak Churn
+CUST0110,47 tahun,Perempuan,Surabaya,7890000.0,8.0,738000.0,Kartu Kredit,Kebutuhan Rumah,,2024-01-11,Tidak Churn
+CUST0035,55.0,Perempuan,surabaya,5630000.0,13.0,3146000.0,E-Wallet,Kecantikan,2.3,2023-02-06,Tidak Churn
+CUST0002,50.0,Perempuan,Mojokerto,8618000.0,11.0,,E-Wallet,Fashion,4.0,09/06/2025,Tidak Churn
+CUST0073,37.0,Laki-laki,Mojokerto,5694000.0,13.0,1685000.0,Transfer Bank,Olahraga,3.9,2023-10-03,Tidak Churn
+CUST0141,59.0,Laki-laki,Malang,7506000.0,6.0,150000000,Transfer Bank,Elektronik,3.7,2025-01-31,Churn
+CUST0025,50.0,Laki-laki,Malang,4242000.0,6.0,671.000,cod,Elektronik,3.2,2023-08-27,Tidak Churn
+CUST0006,54.0,Perempuan,Surabaya,6290000.0,9.0,1731000.0,Transfer Bank,Elektronik,2.6,2025-01-17,Tidak Churn
+CUST0133,21.0,Perempuan,Mojokerto ,5159000.0,13.0,2228000.0,E-Wallet,Olahraga,3.7,2023-05-18,Tidak Churn
+CUST0075,46.0,Laki-laki,Mojokerto,Rp 2.616.000,1.0,174000.0,E wallet,Kebutuhan Rumah,4.3,2023-06-27,Tidak Churn
+CUST0159,39.0,Perempuan,surabaya,4972000.0,8.0,1340000.0,Transfer Bank,Kebutuhan Rumah,3.5,2023-06-21,Tidak Churn
+CUST0053,33.0,Perempuan,Surabaya,5225000.0,9.0,,Transfer Bank,Kecantikan,3.6,2023-04-13,Churn
+CUST0100,23.0,Perempuan,Sidoarjo,6993000.0,10.0,2139000.0,E-Wallet,Kebutuhan Rumah,-1,2023-09-25,Tidak Churn
+CUST0005,36.0,Laki-laki,Sidoarjo,8639000.0,10.0,1136000.0,,Elektronik,4.7,2024-05-29,Tidak Churn
+CUST0043,47.0,L,Sidoarjo,6163000.0,9.0,1072000.0,COD,Kecantikan,2.9,2024-02-11,Tidak Churn
+CUST0092,51.0,Laki-laki,Malang,4232000.0,12.0,2026000.0,E-Wallet,Kebutuhan Rumah,2.9,2025/03/14,Tidak Churn
+CUST0064,58.0,Laki-laki,Mojokerto,7892000.0,7.0,1147000.0,Transfer Bank,Fashion,5.0,2023-03-06,Tidak Churn
+CUST0059,0,Laki-laki,Mojokerto,4162000.0,5.0,825000.0,Transfer Bank,Olahraga,4.7,2023-08-31,Tidak Churn
+CUST0142,27.0,Perempuan,Surabaya,6190000.0,10.0,1583000.0,Transfer Bank,Elektronik,2.2,2024-07-22,Tidak Churn
+CUST0105,51.0,Perempuan,Mojokerto,Rp 4.279.000,5.0,,E-Wallet,Fashion,3.4,2024-04-30,Churn
+CUST0050,50.0,Perempuan,Sidoarjo,5987000.0,7.0,1337000.0,Transfer Bank,Kecantikan,3.9,2023-05-16,Tidak Churn
+CUST0012,58.0,laki-laki,Sidoarjo,3379000.0,5.0,1018000.0,E-Wallet,Fashion,,2025-03-08,Tidak Churn
+CUST0138,19.0,Laki-laki,Malang,2842000.0,12.0,2488000.0,E-Wallet,Olahraga,4.1,2023-03-03,Tidak Churn
+CUST0120,22.0,Laki-laki,Malang,8597000.0,7.0,1360000.0,Transfer Bank,Olahraga,4.3,2024-04-19,Tidak Churn
+CUST0020,36.0,Perempuan,gresik,5379000.0,11.0,1824000.0,Kartu Kredit,Elektronik,4.8,2024-01-12,Tidak Churn
+CUST0140,36.0,Laki-laki,Gresik,4903000.0,11.0,1817000.0,E-Wallet,Kebutuhan Rumah,3.1,2024-09-14,Churn
+CUST0130,,Laki-laki,Surabaya,3574000.0,8.0,1.900.000,E-Wallet,Olahraga,,2024/11/19,Churn
+CUST0019,53.0,Perempuan,Malang,,6.0,1150000.0,E wallet,Elektronik,2.3,14-Jan-2025,Tidak Churn
+CUST0013,48.0,Perempuan,Surabaya,95000000,18.0,2919000.0,E-Wallet,Olahraga,5.0,2023-04-11,Tidak Churn
+CUST0121,36.0,L,Surabaya,-4000000,13.0,,E-Wallet,Olahraga,3.5,2023-05-04,Churn
+CUST0125,53.0,Laki-laki,Sidoarjo,5264000.0,6.0,1132000.0,E-Wallet,Fashion,3.2,2024-11-17,Churn
+CUST0063,33.0,Perempuan,Gresik,5521000.0,5.0,793000.0,E-Wallet,Fashion,4.1,2023-04-06,Tidak Churn
+CUST0129,42.0,Perempuan,Sidoarjo,4539000.0,6.0,1083000.0,E-Wallet,Kebutuhan Rumah,2.6,2024-11-07,Tidak Churn
+CUST0092,51.0,Laki-laki,Malang,4232000.0,12.0,2026000.0,E-Wallet,Kebutuhan Rumah,2.9,2025/03/14,Tidak Churn
+CUST0118,23.0,Perempuan,Sidoarjo,4856000.0,7.0,1517000.0,E-Wallet,Kebutuhan Rumah,2.9,2023-08-02,Churn
+CUST0041,24.0,Laki-laki,Malang,2653000.0,13.0,2.331.000,COD,Fashion,3.1,2024-05-31,Tidak Churn
+CUST0060,46.0,Perempuan,Surabaya,Rp 4.020.000,11.0,1778000.0,Transfer Bank,Olahraga,4.4,2023-02-10,Tidak Churn
+CUST0023,25.0,Laki-laki,Sidoarjo,8220000.0,10.0,1440000.0,COD,Kecantikan,3.1,2023-11-11,Churn
+CUST0066,31.0,Pria,Mojokerto,Rp 7.015.000,9.0,1322000.0,,Kecantikan,2.3,2024/06/16,Tidak Churn
+CUST0126,41.0,Perempuan,Sidoarjo,2204000.0,9.0,1910000.0,Transfer Bank,Kecantikan,2.2,2023-04-22,Tidak Churn
+CUST0151,53.0,Perempuan,Sidoarjo,6100000.0,13.0,2660000.0,E-Wallet,,2.3,26/02/2024,Tidak Churn
+CUST0057,40.0,laki-laki,Surabaya,5275000.0,6.0,1277000.0,E-Wallet,Kebutuhan Rumah,4.9,2023-06-09,Churn
+CUST0082,36.0,Perempuan,Malang,2957000.0,6.0,1084000.0,COD,Kebutuhan Rumah,,2023-04-22,Churn
+CUST0093,53.0,Laki-laki,Sidoarjo,5177000.0,4.0,1011000.0,Kartu Kredit,Fashion,4.9,2023-12-17,Tidak Churn
+CUST0127,,L,Surabaya,7171000.0,9.0,1665000.0,E-Wallet,Kebutuhan Rumah,2.8,2023-03-30,Tidak Churn
